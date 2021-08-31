@@ -1,7 +1,15 @@
 # Candy Crush 
 ## A clone of the popular Candy Crush Game using JavaScript.
 
-Get your own copy:
+Get your own copy(requires git):
 
 ```
-git clone 
+git clone https://github.com/iron-coder12/Candy-Crush-Clone.git
+```
+then cd into that folder
+
+The next step is you can open your file Explorer and open the index.html and have fun playing.
+
+Lemme know what you think about this game by simply creating an issue here on github.
+
+
