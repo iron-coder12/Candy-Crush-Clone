@@ -1,7 +1,7 @@
 # Candy Crush 
 ##### A clone of the popular Candy Crush Game using JavaScript.
 
-Live Project: <a herf="https://iron-coder12.github.io/Candy-Crush-Clone/">Here</a>
+<a href="https://iron-coder12.github.io/Candy-Crush-Clone/"> Live Project </a>
 
 Get your own copy(requires git):
 
