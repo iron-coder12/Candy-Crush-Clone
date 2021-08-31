@@ -12,4 +12,8 @@ The next step is you can open your file Explorer and open the index.html and hav
 <br />
 Lemme know what you think about this game by simply creating an issue here on github.
 
+<p align="center">
+  Made with ❤ by Shaurya Rathi
+</p>
+
 
